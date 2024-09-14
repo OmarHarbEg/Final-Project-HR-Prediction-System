@@ -78,7 +78,6 @@ hvplot==0.10.0
 idna==3.6
 imageio==2.35.1
 imbalanced-learn==0.12.2
-imblearn==0.0
 IMDbPY==2022.7.9
 importlib_metadata==7.1.0
 ip2geotools==0.1.6
@@ -112,7 +111,6 @@ jupyterlab==4.1.5
 jupyterlab-widgets==3.0.9
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.2
-keras==3.4.1
 keyring==25.2.1
 kiwisolver==1.4.5
 kneed==0.8.5
@@ -141,7 +139,6 @@ ml-dtypes==0.4.0
 more-itertools==10.2.0
 multidict==6.0.5
 mysql-connector-python==8.3.0
-namex==0.0.8
 nbclient==0.9.0
 nbconvert==7.14.2
 nbformat==5.9.2
